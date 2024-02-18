@@ -2,7 +2,7 @@
 ## Fundamentos de Sistemas operativos
 ## Autores: Isabella Huerta, Raquel Bascones, Ingrid Carvalhais
 ### Nuestro menú se basa en 4 opciones: 
-*Creamos una función llamada –mostrar_menú()-:  
+* Creamos una función llamada –mostrar_menú()-:  
   Dicha función imprimirá el menú con el comando –echo-: 
   echo "Menú de opciones:" 
   echo "1. Crear carpeta y archivos" 
